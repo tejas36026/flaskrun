@@ -1,0 +1,5 @@
+Flask==2.2.3
+SpeechRecognition
+pydub
+flask_cors
+moviepy
